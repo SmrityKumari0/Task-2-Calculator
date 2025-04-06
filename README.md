@@ -13,8 +13,8 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 # Tech Stack
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 
